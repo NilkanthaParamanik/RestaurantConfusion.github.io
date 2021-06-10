@@ -1,0 +1,1 @@
+A simple e-commerce page made through simple HTML,css,java-script and Bootstrap-4
